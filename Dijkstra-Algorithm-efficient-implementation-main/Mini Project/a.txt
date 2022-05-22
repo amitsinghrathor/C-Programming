@@ -1,0 +1,8 @@
+chennai delhi 6
+delhi goa 2
+chennai indore 2
+indore mumbai 5
+mumbai delhi 4
+mumbai hyderabad 2
+hyderabad goa 9
+0
